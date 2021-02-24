@@ -1,0 +1,16 @@
+{
+    "NAME":"Anmol Babbar",
+    "ABOUT_ME":"I'm passionate about computer programming as a result of the tremendous affect it has had on our world. From cracking the Enigma Code in World War II, to landing Apollo 11 on the moon, and everything both in between and beyond, programming has and continues to shape the world we live in. Today, with things like social media and personal computers, programming and computer science is more evident in our day to day lives than ever before. I am excited at where programming will take us next. Whether it be another galaxy, quantum computing, or simply a new Facebook, I look forward to being a part of it.",
+    "SKILLS": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "Kotlin"
+    ], 
+    "PROJECTS": [
+      ["filter_drama", "Twitter"," Lorem ipsum dolor sit amet."],
+       ["place", "Instagram", "Best Photo Sharing Platform"],
+       ["whatshot", "Amazon", "You all know what it is! 😂"]
+    ]
+
+}
